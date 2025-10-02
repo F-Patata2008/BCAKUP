@@ -1,0 +1,9 @@
+/usr/lib
+├── corepack@0.33.0
+├── node-gyp@11.4.2
+├── nopt@7.2.1
+├── npm@11.6.1
+├── prettier@3.6.2
+├── semver@7.7.2
+└── yarn@1.22.22
+
